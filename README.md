@@ -25,5 +25,5 @@ Sou profissional com 5 anos de experiência na segurança privada, atuando como 
   <a href="https://www.linkedin.com/in/igor-arantes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/arantes_igor/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/sotouke_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "sotouke06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href ="[sotouke06@gmail.com](https://mail.google.com/mail/u/0/?ogbl#inbox?compose=GTvVlcSKjDVvGtDBQwjJshxWbfQTmFWVBQDZHZpnnjXGdxQHPNGSVBmWrwDshrBQwbLtQtHQLzhxH)"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
