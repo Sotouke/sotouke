@@ -1,6 +1,6 @@
 # Meu nome é Igor Arantes, mas pode me chamar de "Sotouke".
 
-Sou profissional com 5 anos de experiência na segurança privada, atuando como vigilante. Sou formado em Ciência da Computação, atualmente, estou em transição de carreira para a área de TI. Tenho me especializado em QA através dos cursos da Alura, mas meu objetivo é ingressar na área de TI de forma ampla, seja em desenvolvimento, análise de sistemas, banco de dados, backend, entre outras áreas. Estou em busca de novas oportunidades para aplicar meu conhecimento e contribuir com a área de tecnologia.
+Sou profissional com 5 anos de experiência na segurança privada, atuando como vigilante. atualmente, estou em transição de carreira para a área de TI. Tenho me especializado em QA através dos cursos da Alura, mas meu objetivo é ingressar na área de TI de forma ampla, seja em desenvolvimento, análise de sistemas, banco de dados, backend, entre outras áreas. Estou em busca de novas oportunidades para aplicar meu conhecimento e contribuir com a área de tecnologia.
 
 
 
