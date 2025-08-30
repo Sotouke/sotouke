@@ -1,7 +1,5 @@
 # Meu nome é Igor Arantes.
 
-Sou profissional com 5 anos de experiência na segurança privada, atuando como vigilante. Atualmente, estou em transição de carreira para a área de TI. Tenho me especializado em QA através dos cursos da Alura, mas meu objetivo é ingressar na área de TI de forma ampla, seja em desenvolvimento, análise de sistemas, banco de dados, backend, entre outras áreas. Estou em busca de novas oportunidades para aplicar meu conhecimento e contribuir com a área de tecnologia.
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Igor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Igor-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
